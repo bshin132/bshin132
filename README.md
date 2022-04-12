@@ -17,3 +17,17 @@
 <a href="mailto:bshin132@gmail.com?subject=Hola%20Brian"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I am a Frontend Developer looking for a role in the tech industry
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning Angular.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2022 Goals: Get hired as a Frontend Developer!
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<br>
+
