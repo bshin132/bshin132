@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/55858125/163040243-7bbc1fdd-73d7-4b3c-85d7-72726388a748.gif" alt="animated" />
 </p>
 <p>
-  <h1 align="center"><b>Hello there, I'm Brian 👋</b></h1>
+  <h1 align="center"><b>Hello World, I'm Brian 👋</b></h1>
 </p>
 
 <p align="center">
