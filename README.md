@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Get hired as a Frontend Developer!
-- 🧗 I try to: Go beyond and push the bounds
+- 🧗 I try to: Go beyond and push the bounds.
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
