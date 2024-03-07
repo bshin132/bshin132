@@ -23,9 +23,9 @@
 
 ### I am a Frontend Developer looking for a role in the tech industry
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Get hired as a Frontend Developer!
+- 🥅 2024 Goal: Get hired as a Frontend Developer!
 - 🧗 I try to: Go beyond and push the bounds.
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
